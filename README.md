@@ -6,6 +6,7 @@ This Power BI dashboard analyzes inpatient and outpatient waiting lists, providi
 The goal of this project is to analyze and provide actionable insights into patient waiting lists for both inpatients and outpatients. This dashboard empowers healthcare providers with data-driven decision-making capabilities.
 
 ## Dataset Used
+Links of my datasets - https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Data-Mapping-Bg.zip
 1. **Mapping_Specialty.csv**:
    - Maps medical specialties to broader groups.
    - Columns: `Specialty`, `Specialty Group`.
@@ -24,6 +25,8 @@ The goal of this project is to analyze and provide actionable insights into pati
 - Slicers for filtering by specialty and patient type.
 - Hover-over tooltips for detailed insights.
 - Interactive charts and tables.
+
+My Dasboard - https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Healthcare_Insights.pbix
 
 ## Process Overview
 1. Data Preparation:
