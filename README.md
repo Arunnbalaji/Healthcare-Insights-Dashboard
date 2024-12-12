@@ -34,6 +34,10 @@ The goal of this project is to analyze and provide actionable insights into pati
    - Used slicers for user-friendly navigation.
 
 ## Screenshots
+Dashboard 
+https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Healthcare%20Project.png
+https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Healthcare%20Project.png2.png
+
 
 
 
