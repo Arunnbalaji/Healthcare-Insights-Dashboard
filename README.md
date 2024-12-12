@@ -41,6 +41,7 @@ Dashboard
 https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Healthcare%20Project.png
 https://github.com/Arunnbalaji/Healthcare-Insights-Dashboard/blob/main/Healthcare%20Project.png2.png
 
-
+## Final Conclusion
+The Healthcare Insights: Patient Waiting List Dashboard successfully delivers actionable insights into inpatient and outpatient management, enabling healthcare providers to make data-driven decisions. By visualizing key metrics like waiting times, resource utilization, and patient trends, the dashboard supports operational efficiency, reduces bottlenecks, and enhances patient care quality.
 
 
